@@ -1,3 +1,5 @@
+<a href="TheGestor.png">TheGestor</a>
+
 # TheGestor 
 
 - Un gestor de archivos simple intuitivo y hecho en bash

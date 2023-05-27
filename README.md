@@ -1,4 +1,4 @@
-<a href="https://githubusercontent/S0ulx3/TheGestor/TheGestor.png"</a>
+https://github.com/S0ulx3/TheGestor/blob/main/TheGestor.png
 
 # TheGestor 
 

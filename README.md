@@ -1,7 +1,7 @@
 # TheGestor.sh
 Es un Gestor de Archivos programado en bash
 
-Este es el código:
+Este es el código y sus funciones:
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------

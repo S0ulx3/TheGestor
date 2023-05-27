@@ -6,21 +6,21 @@
 
 - Clonamos el repositorio 
 
-git clone https://github.com/S0ulx3/TheGestor
+  git clone https://github.com/S0ulx3/TheGestor
 
 - Accedemos a la carpeta y otorgamos permisos de ejecución al archivo ejecutable que deseamos usar
 
-cd TheGestor
+  cd TheGestor
 
-chmod +x TheGestor.sh
-o 
-chmod +x TermuxTheGestor.sh
+  chmod +x TheGestor.sh
+  o 
+  chmod +x TermuxTheGestor.sh
 
 - Ejecutamos el Archivo que deseamos usar
 
-./TheGestor.sh o ./TermuxTheGestor.sh
+  ./TheGestor.sh o ./TermuxTheGestor.sh
 
-bash TheGestor.sh o bash TermuxTheGestor.sh
+  bash TheGestor.sh o bash TermuxTheGestor.sh
 
 
 # Funciones

@@ -1,4 +1,5 @@
-https://github.com/S0ulx3/TheGestor/blob/main/TheGestor.png
+![TheGestor](https://github.com/S0ulx3/TheGestor/blob/main/TheGestor.png)
+
 
 # TheGestor 
 

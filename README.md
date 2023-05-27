@@ -4,7 +4,7 @@
 
 # Instalacion:
 
-- Clonamos el repositorio -
+- Clonamos el repositorio 
 
 git clone https://github.com/S0ulx3/TheGestor
 
@@ -24,8 +24,13 @@ bash TheGestor.sh
 # Funciones
 
 • Listar el contenido del drectorio actual
+
 • Crear un archivo
+
 • Crear un directorio
+
 • Mover o renombrar un directorio
+
 • Pegar un archivo o directorio a una ruta
+
 • Eliminar un archivo o directorio

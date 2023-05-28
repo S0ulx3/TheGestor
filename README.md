@@ -1,6 +1,6 @@
 | TheGestor | TheGestorWC	|
 | ------------  | ------------ |
-|![Index](https://github.com/S0ulx3/TheGestor/blob/main/TheGestor.png)|![f](https://github.com/S0ulx3/TheGestor/blob/main/TheGestorWC.png)
+|![f](https://github.com/S0ulx3/TheGestor/blob/main/TheGestor.png)|![f](https://github.com/S0ulx3/TheGestor/blob/main/TheGestorWC.png)
 
 ---------------------------------------------------------------------
 

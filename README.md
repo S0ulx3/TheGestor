@@ -21,22 +21,22 @@ Clonamos el repositorio *TheGestor*
 
 --------------------------------------------------------------------------------------------------
 - Accedemos a la carpeta y otorgamos permisos de ejecución al archivo ejecutable que deseamos usar •
-'''bash
+```bash
   cd TheGestor
 
   chmod +x Thegestor.sh
   o 
   chmod +x TheGestorWC.sh
-'''
+```
 --------------------------------------------------------------------------------------------------
 
 ---------------------------------------------
 - Ejecutamos el Archivo que deseamos usar •
-'''bash
+```bash
   ./Thegestor.sh o ./TheGestorWC.sh
 
   bash Thegestor.sh o bash TheGestorWC.sh
-'''
+```bash
 ---------------------------------------------
 
 # Funciones
@@ -65,30 +65,30 @@ Clonamos el repositorio *TheGestor*
 • Is *TheGestor* without colors •
 
 # Instalation:
-----------------------------------------------'''bash
+----------------------------------------------```bash
 - We clone the repository *TheGestor* •
   git clone https://github.com/S0ulx/TheGestor
-'''
+```
 ----------------------------------------------
 
 --------------------------------------------------------------------------------------------------
 - We access the folder and grant execution permissions to the executable file that we want to use •
-'''bash
+```bash
   cd TheGestor
   
   chmod +x Thegestor.sh
   or 
   chmod +x TheGestorWC.sh
-'''
+```
 ----------------------------------------------------------------------------------------------------
 
 ----------------------------------------------
 - We execute the File that we want to use •
-'''bash 
+```bash
   ./Thegestor.sh or ./TheGestorWC.sh
 
   bash Thegestor.sh or bash TheGestorWC.sh
-'''
+```
 ----------------------------------------------
 
 # Functions

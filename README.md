@@ -15,9 +15,9 @@
 
 Clonamos el repositorio *TheGestor* 
 
-'''bash
+```bash
   git clone https://github.com/S0ulx3/TheGestor
-'''
+```
 
 --------------------------------------------------------------------------------------------------
 - Accedemos a la carpeta y otorgamos permisos de ejecución al archivo ejecutable que deseamos usar •

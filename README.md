@@ -1,8 +1,17 @@
 ![TheGestor](https://github.com/S0ulx3/TheGestor/blob/main/TheGestor.png)
 
+---------------------------------------------------------------------
+
 ![TheGestorWC](https://github.com/S0ulx3/TheGestor/blob/main/TheGestorWC.png)
 
-# Español
+---------------------------------------------------------------------
+
+- [Español](#español)
+- [English](#english)
+- 
+---------------------------------------------------------------------
+
+### Español
 # TheGestor 
 
 - Un gestor de archivos simple intuitivo y hecho en bash •
@@ -54,7 +63,7 @@ bash Thegestor.sh  o  bash TheGestorWC.sh
 
 --------------------------------------------------------
 
-# English
+### English
 # TheGestor
 - A simple and intuitive file manager made in bash •
 

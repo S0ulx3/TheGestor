@@ -5,6 +5,10 @@
 
 - Un gestor de archivos simple intuitivo y hecho en bash •
 
+# TermuxTheGestor
+
+• Es el TheGestor sin colores •
+
 # Instalacion:
 -----------------------------------------------
 - Clonamos el repositorio •
@@ -45,14 +49,16 @@
 
 • Eliminar un archivo o directorio •
 
-# TermuxTheGestor
 
-• Es el TheGestor sin colores•
 
 
 # English
 # TheGestor
 - A simple and intuitive file manager made in bash •
+
+# TermuxTheGestor
+
+- Is TheGestor without colors
 
 # Instalation:
 ----------------------------------------------
@@ -92,6 +98,4 @@
 
 • Delete a file or directory •
 
-# TermuxTheGestor
 
-Is TheGestor without colors

@@ -77,7 +77,7 @@ git clone https://github.com/S0ulx/TheGestor
 cd TheGestor
   
 chmod +x Thegestor.sh
-or 
+
 chmod +x TheGestorWC.sh
 ```
 

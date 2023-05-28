@@ -1,5 +1,7 @@
 ![TheGestor](https://github.com/S0ulx3/TheGestor/blob/main/TheGestor.png)
 
+![TermuxTheGestor](https://github.com/S0ulx3/TheGestor/blob/main/TermuxTheGestor.png)
+
 # Español
 # TheGestor 
 

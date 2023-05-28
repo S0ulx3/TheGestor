@@ -51,7 +51,7 @@ bash Thegestor.sh o bash TheGestorWC.sh
 • Pegar un archivo o directorio a una ruta •
 
 • Eliminar un archivo o directorio •
-
+--------------------------------------------------------
 
 
 

@@ -75,9 +75,15 @@
 ----------------------------------------------
 
 # Functions
+
 • List the contents of the current directory
+
 • Create a file
+
 • Create a directory
+
 • Move or rename a directory
+
 • Paste a file or directory to a path
+
 • Delete a file or directory

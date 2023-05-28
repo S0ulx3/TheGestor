@@ -12,7 +12,7 @@ do
    echo "6) Eliminar archivo/directorio"
    echo "7) Salir"
    echo "==========================================="
-
+   echo
    read -p "Ingrese la opcion deseada: " opcion
 
    case $opcion in
@@ -20,6 +20,7 @@ do
           ls
           ;;
        2)
+          echo
           read -p "Ingrese el nombre del archivo: " nombre_archivo
           touch $nombre_archivo
           echo
@@ -27,6 +28,7 @@ do
           ;;
 
        3)
+          echo
           read -p "Ingrese el nombre del directorio: " nombre_directorio
           mkdir $nombre_directorio
           echo
@@ -34,7 +36,9 @@ do
           ;;
 
        4)
+         echo
          read -p "Ingrese nombre del archivo: " origen
+         echo
          read -p "Ingrese la nueva ubicacion o nombre: " destino
          mv $origen $destino
          echo
@@ -42,7 +46,9 @@ do
          ;;
 
        5)
+          echo
           read -p "Ingrese nombre de archivo/directorio: " origen
+          echo
           read -p "Ingrese la ruta donde desea copiar el archivo: " destino
           cp $origen $destino
           echo
@@ -50,13 +56,16 @@ do
           ;;
 
        6)
+          echo
           read -p "Ingrese el nombre del archivo: " $nombre_archivo
           rm -rf $nombre_archivo
           echo
           echo "$nombre_archivo ha sido eliminado"
           ;;
        7) exit ;;
-       *) echo "Opcion invalida";;
+       *)
+         echo
+         echo "Opcion invalida";;
  esac
 
 echo

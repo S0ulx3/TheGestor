@@ -54,8 +54,6 @@ bash Thegestor.sh o bash TheGestorWC.sh
 
 --------------------------------------------------------
 
-
-
 # English
 # TheGestor
 - A simple and intuitive file manager made in bash •
@@ -63,31 +61,31 @@ bash Thegestor.sh o bash TheGestorWC.sh
 # TheGestorWC
 
 • Is *TheGestor* without colors •
-
+---------------------------------------------
 # Instalation:
 - We clone the repository *TheGestor* •
 ```bash
-  git clone https://github.com/S0ulx/TheGestor
+git clone https://github.com/S0ulx/TheGestor
 ```
 ----------------------------------------------
 
 --------------------------------------------------------------------------------------------------
 - We access the folder and grant execution permissions to the executable file that we want to use •
 ```bash
-  cd TheGestor
+cd TheGestor
   
-  chmod +x Thegestor.sh
-  or 
-  chmod +x TheGestorWC.sh
+chmod +x Thegestor.sh
+or 
+chmod +x TheGestorWC.sh
 ```
 ----------------------------------------------------------------------------------------------------
 
 ----------------------------------------------
 - We execute the File that we want to use •
 ```bash
-  ./Thegestor.sh or ./TheGestorWC.sh
+./Thegestor.sh or ./TheGestorWC.sh
 
-  bash Thegestor.sh or bash TheGestorWC.sh
+bash Thegestor.sh or bash TheGestorWC.sh
 ```
 ----------------------------------------------
 

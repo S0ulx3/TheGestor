@@ -3,7 +3,7 @@
 while true
 do
    echo "==========================================="
-   echo "      Bienvenido al Gestor de tareas       "
+   echo "      Bienvenido al Gestor de archivos       "
    echo "1) Mostrar contenido del directorio actual   "
    echo "2) Crear un archivo"
    echo "3) Crear un directorio"

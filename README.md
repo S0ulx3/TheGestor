@@ -45,6 +45,10 @@
 
 • Eliminar un archivo o directorio •
 
+# TermuxTheGestor
+
+• Es el TheGestor sin colores•
+
 
 # English
 # TheGestor
@@ -87,3 +91,7 @@
 • Paste a file or directory to a path •
 
 • Delete a file or directory •
+
+# TermuxTheGestor
+
+Is TheGestor without colors

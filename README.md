@@ -108,5 +108,3 @@ bash Thegestor.sh  or  bash TheGestorWC.sh
 • Paste a file or directory to a path •
 
 • Delete a file or directory •
-
-

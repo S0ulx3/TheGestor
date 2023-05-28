@@ -13,7 +13,8 @@
 
 # Instalacion:
 
-- Clonamos el repositorio *TheGestor* •
+Clonamos el repositorio *TheGestor* 
+
 '''bash
   git clone https://github.com/S0ulx3/TheGestor
 '''

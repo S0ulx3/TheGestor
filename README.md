@@ -58,7 +58,7 @@
 
 # TermuxTheGestor
 
-- Is TheGestor without colors
+• Is TheGestor without colors •
 
 # Instalation:
 ----------------------------------------------

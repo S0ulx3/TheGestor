@@ -16,27 +16,26 @@
 Clonamos el repositorio *TheGestor* 
 
 ```bash
-  git clone https://github.com/S0ulx3/TheGestor
+git clone https://github.com/S0ulx3/TheGestor
 ```
 
 --------------------------------------------------------------------------------------------------
 - Accedemos a la carpeta y otorgamos permisos de ejecución al archivo ejecutable que deseamos usar •
 ```bash
-  cd TheGestor
+cd TheGestor
 
-  chmod +x Thegestor.sh
-  o 
-  chmod +x TheGestorWC.sh
+chmod +x Thegestor.sh
+
+chmod +x TheGestorWC.sh
 ```
---------------------------------------------------------------------------------------------------
 
 ---------------------------------------------
 - Ejecutamos el Archivo que deseamos usar •
 ```bash
-  ./Thegestor.sh o ./TheGestorWC.sh
+./Thegestor.sh o ./TheGestorWC.sh
 
-  bash Thegestor.sh o bash TheGestorWC.sh
-```bash
+bash Thegestor.sh o bash TheGestorWC.sh
+```
 ---------------------------------------------
 
 # Funciones

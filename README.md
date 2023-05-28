@@ -1,13 +1,13 @@
 ![TheGestor](https://github.com/S0ulx3/TheGestor/blob/main/TheGestor.png)
 
-![TermuxTheGestor](https://github.com/S0ulx3/TheGestor/blob/main/TermuxTheGestor.png)
+![TheGestorWX](https://github.com/S0ulx3/TheGestor/blob/main/TheGestorWC.png)
 
 # Español
 # TheGestor 
 
 - Un gestor de archivos simple intuitivo y hecho en bash •
 
-# TermuxTheGestor
+# TheGestorWC
 
 • Es el TheGestor sin colores •
 
@@ -25,16 +25,16 @@
 
   chmod +x Thegestor.sh
   o 
-  chmod +x TermuxTheGestor.sh
+  chmod +x TheGestorWC.sh
   
 --------------------------------------------------------------------------------------------------
 
 ---------------------------------------------
 - Ejecutamos el Archivo que deseamos usar •
 
-  ./Thegestor.sh o ./TermuxTheGestor.sh
+  ./Thegestor.sh o ./TheGestorWC.sh
 
-  bash Thegestor.sh o bash TermuxTheGestor.sh
+  bash Thegestor.sh o bash TheGestorWC.sh
 ---------------------------------------------
 
 # Funciones
@@ -58,7 +58,7 @@
 # TheGestor
 - A simple and intuitive file manager made in bash •
 
-# TermuxTheGestor
+# TheGestorWC
 
 • Is TheGestor without colors •
 
@@ -75,15 +75,15 @@
   
   chmod +x Thegestor.sh
   or 
-  chmod +x TermuxTheGestor.sh
+  chmod +x TheGestorWC.sh
 ----------------------------------------------------------------------------------------------------
 
 ----------------------------------------------
 - We execute the File that we want to use •
  
-  ./Thegestor.sh or ./TermuxTheGestor.sh
+  ./Thegestor.sh or ./TheGestorWC.sh
 
-  bash Thegestor.sh or bash TermuxTheGestor.sh
+  bash Thegestor.sh or bash TheGestorWC.sh
 ----------------------------------------------
 
 # Functions

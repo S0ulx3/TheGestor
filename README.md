@@ -80,7 +80,6 @@ chmod +x Thegestor.sh
 or 
 chmod +x TheGestorWC.sh
 ```
----------------------------------------------
 
 ---------------------------------------------
 - We execute the File that we want to use •

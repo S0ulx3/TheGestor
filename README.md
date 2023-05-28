@@ -17,7 +17,7 @@
 
   cd TheGestor
 
-  chmod +x TheGestor.sh
+  chmod +x Thegestor.sh
   o 
   chmod +x TermuxTheGestor.sh
   
@@ -26,9 +26,9 @@
 ---------------------------------------------
 - Ejecutamos el Archivo que deseamos usar
 
-  ./TheGestor.sh o ./TermuxTheGestor.sh
+  ./Thegestor.sh o ./TermuxTheGestor.sh
 
-  bash TheGestor.sh o bash TermuxTheGestor.sh
+  bash Thegestor.sh o bash TermuxTheGestor.sh
 ---------------------------------------------
 
 # Funciones

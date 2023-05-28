@@ -1,6 +1,6 @@
 ![TheGestor](https://github.com/S0ulx3/TheGestor/blob/main/TheGestor.png)
 
-![TheGestorWX](https://github.com/S0ulx3/TheGestor/blob/main/TheGestorWC.png)
+![TheGestorWC](https://github.com/S0ulx3/TheGestor/blob/main/TheGestorWC.png)
 
 # Español
 # TheGestor 

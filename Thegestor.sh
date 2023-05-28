@@ -7,25 +7,35 @@ color_cyan="\e[36m"
 color_green="\e[32m"
 color_red="\e[31m"
 
+# ANSI
+
+RED='\033[31m'
+GREEN='\033[32m'
+BLUE='\033[34m'
+YELLOW='\033[33m'
+NC='\033[0m' # Restablecer color
+
 while true
 do
-    echo -e "${color_red}Bienvenido al gestor de archivos${color_reset}"
-    echo -e "${color_cyan}1. Mostrar contenido del directorio actual"
-    echo -e "2. Crear un archivo"
-    echo -e "3. Crear un directorio"
-    echo -e "4. Mover o renombrar archivo/directorio"
-    echo -e "5. Copiar archivo/directorio"
-    echo -e "6. Eliminar archivo/directorio"
-    echo -e "7. Salir${color_reset}"
-
-    read -p "Ingrese la opción deseada: " opcion
+    echo -e "${RED}|-------------------------------------------------|${NC}"
+    echo -e "${RED}|      Bienvenido al gestor de archivos           ${RED}|${NC}"
+    echo -e "${RED}|1.${NC}${BLUE} Mostrar contenido del directorio actual       ${RED}|${NC}"
+    echo -e "${RED}|2.          ${NC}${BLUE} Crear un archivo                    ${RED}|${NC}"
+    echo -e "${RED}|3.        ${NC}${BLUE} Crear un directorio                   ${RED}|${NC}"
+    echo -e "${RED}|4.${NC}${BLUE} Mover o renombrar archivo/directorio          ${RED}|${NC}"
+    echo -e "${RED}|5.      ${NC}${BLUE} Copiar archivo/directorio               ${RED}|${NC}"
+    echo -e "${RED}|6.     ${NC}${BLUE} Eliminar archivo/directorio              ${RED}|${NC}"
+    echo -e "${RED}|7.              ${NC}${BLUE} Salir${color_reset}                           ${RED}|${NC}"
+    echo -e "${RED}|-------------------------------------------------|${NC}"
+    echo
+    read -p "$(echo -e "${YELLOW}Ingrese la opción deseada:${NC} ")" opcion
 
     case $opcion in
         1) echo
            ls ;;
         2)
             echo
-            read -p "Ingrese el nombre del archivo: " nombre_archivo
+            read -p "$(echo -e "${YELLOW}Ingrese el nombre del archivo:${NC} ")" nombre_archivo
             touch $nombre_archivo
             2>/dev/null
             echo
@@ -33,7 +43,7 @@ do
             ;;
         3)
             echo
-            read -p "Ingrese el nombre del directorio: " nombre_directorio
+            read -p "$(echo -e "${YELLOW}Ingrese el nombre del directorio:${NC} ")" nombre_directorio
             mkdir $nombre_directorio
             2>/dev/null
             echo
@@ -41,9 +51,9 @@ do
             ;;
         4)
             echo
-            read -p "Ingrese el nombre del archivo/directorio: " origen
+            read -p "$(echo -e "${YELLOW}Ingrese el nombre del archivo/directorio:${NC} ")" origen
             echo
-            read -p "Ingrese la nueva ubicación/nombre: " destino
+            read -p "$(echo -e "${YELLOW}Ingrese la nueva ubicación/nombre:${NC} ")" destino
             mv $origen $destino
             2>/dev/null
             echo
@@ -51,9 +61,9 @@ do
             ;;
         5)
             echo
-            read -p "Ingrese el nombre del archivo/directorio: " origen
+            read -p "$(echo -e "${YELLOW}Ingrese el nombre del archivo/directorio:${NC} ")" origen
             echo
-            read -p "Ingrese la ubicación de destino: " destino
+            read -p "$(echo -e "${YELLOW}Ingrese la ubicación de destino:${NC} ")" destino
             cp -r $origen $destino
             2>/dev/null
             echo
@@ -61,14 +71,19 @@ do
             ;;
         6)
             echo
-            read -p "Ingrese el nombre del archivo/directorio: " nombre_archivo
+            read -p "$(echo -e "${YELLOW}Ingrese el nombre del archivo/directorio:${NC} ")" nombre_archivo
             echo
             rm -rf $nombre_archivo
             2>/dev/null
             echo -e "${color_cyan}Archivo/Directorio${color_reset} ${color_red}$nombre_archivo${color_reset} ${color_cyan}eliminado.${color_reset}"
             ;;
-        7) exit ;;
-        *) echo -e "${color_red}Opción inválida${color_reset}";;
+        7)
+          echo
+          echo -e "${RED}[!]${NC}${YELLOW} Saliendo... ¡Vuelva Pronto!${NC}"
+          exit ;;
+        *)
+          echo
+          echo -e "${color_red}Opción inválida${color_reset}";;
     esac
 
     echo

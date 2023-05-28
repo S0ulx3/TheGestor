@@ -64,8 +64,8 @@ bash Thegestor.sh o bash TheGestorWC.sh
 • Is *TheGestor* without colors •
 
 # Instalation:
-----------------------------------------------```bash
 - We clone the repository *TheGestor* •
+```bash
   git clone https://github.com/S0ulx/TheGestor
 ```
 ----------------------------------------------

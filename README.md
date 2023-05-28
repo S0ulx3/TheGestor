@@ -70,8 +70,6 @@ bash Thegestor.sh  o  bash TheGestorWC.sh
 git clone https://github.com/S0ulx/TheGestor
 ```
 ---------------------------------------------
-
----------------------------------------------
 - We access the folder and grant execution permissions to the executable file that we want to use •
 ```bash
 cd TheGestor

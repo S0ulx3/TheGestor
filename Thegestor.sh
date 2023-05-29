@@ -18,14 +18,15 @@ NC='\033[0m' # Restablecer color
 while true
 do
     echo -e "${RED}|-------------------------------------------------|${NC}"
-    echo -e "${RED}|      Bienvenido al gestor de archivos           ${RED}|${NC}"
-    echo -e "${RED}|1.${NC}${BLUE} Mostrar contenido del directorio actual       ${RED}|${NC}"
-    echo -e "${RED}|2.          ${NC}${BLUE} Crear un archivo                    ${RED}|${NC}"
-    echo -e "${RED}|3.        ${NC}${BLUE} Crear un directorio                   ${RED}|${NC}"
-    echo -e "${RED}|4.${NC}${BLUE} Mover o renombrar archivo/directorio          ${RED}|${NC}"
-    echo -e "${RED}|5.      ${NC}${BLUE} Copiar archivo/directorio               ${RED}|${NC}"
-    echo -e "${RED}|6.     ${NC}${BLUE} Eliminar archivo/directorio              ${RED}|${NC}"
-    echo -e "${RED}|7.              ${NC}${BLUE} Salir${color_reset}                           ${RED}|${NC}"
+    echo -e "${RED}|            Bienvenido a ${GREEN}TheGestor${NC}               ${RED}|${NC}"
+    echo -e "${RED}| 1. ${NC}${BLUE} Mostrar contenido del directorio actual     ${RED}|${NC}"
+    echo -e "${RED}| 2.           ${NC}${BLUE} Crear un archivo                  ${RED}|${NC}"
+    echo -e "${RED}| 3.         ${NC}${BLUE} Crear un directorio                 ${RED}|${NC}"
+    echo -e "${RED}| 4. ${NC}${BLUE} Mover o renombrar archivo/directorio        ${RED}|${NC}"
+    echo -e "${RED}| 5.       ${NC}${BLUE} Copiar archivo/directorio             ${RED}|${NC}"
+    echo -e "${RED}| 6.      ${NC}${BLUE} Eliminar archivo/directorio            ${RED}|${NC}"
+    echo -e "${RED}| 7.               ${NC}${BLUE} Salir${color_reset}
+       ${RED}|${NC}"
     echo -e "${RED}|-------------------------------------------------|${NC}"
     echo
     read -p "$(echo -e "${YELLOW}Ingrese la opción deseada:${NC} ")" opcion

@@ -30,7 +30,7 @@ git clone https://github.com/S0ulx3/TheGestor
 - Accedemos a la carpeta y otorgamos permisos de ejecución al archivo ejecutable que deseamos usar y lo ejecutamos •
 ```bash
 cd TheGestor
-chmod +x Thegestor && ./TheGestor
+chmod +x TheGestor && ./TheGestor
 
 chmod +x TheGestorWC && ./TheGestorWC
 ```

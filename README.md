@@ -32,11 +32,9 @@ git clone https://github.com/S0ulx3/TheGestor
 cd TheGestor
 
 Para el TheGestor.
-
 chmod +x TheGestor && ./TheGestor
 
 Para el TheGestorWC:
-
 chmod +x TheGestorWC && ./TheGestorWC
 ```
 --------------------------------------------------------------------------------------------------------------------

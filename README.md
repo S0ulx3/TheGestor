@@ -26,25 +26,15 @@ Clonamos el repositorio *TheGestor*
 git clone https://github.com/S0ulx3/TheGestor
 ```
 
---------------------------------------------------------------------------------------------------
-- Accedemos a la carpeta y otorgamos permisos de ejecución al archivo ejecutable que deseamos usar •
+--------------------------------------------------------------------------------------------------------------------
+- Accedemos a la carpeta y otorgamos permisos de ejecución al archivo ejecutable que deseamos usar y lo ejecutamos •
 ```bash
 cd TheGestor
+chmod +x Thegestor.sh && ./TheGestor.sh
 
-chmod +x Thegestor.sh
-
-chmod +x TheGestorWC.sh
+chmod +x TheGestorWC.sh && ./TheGestorWC.sh
 ```
-
----------------------------------------------
-- Ejecutamos el Archivo que deseamos usar •
-```bash
-./Thegestor.sh  &&  ./TheGestorWC.sh
-
-bash Thegestor.sh  &&  bash TheGestorWC.sh
-```
----------------------------------------------
-
+--------------------------------------------------------------------------------------------------------------------
 # Funciones
 
 • Listar el contenido del drectorio actual •
@@ -77,24 +67,14 @@ bash Thegestor.sh  &&  bash TheGestorWC.sh
 git clone https://github.com/S0ulx/TheGestor
 ```
 ---------------------------------------------
-- We access the folder and grant execution permissions to the executable file that we want to use •
+- We access the folder and grant execution permissions to the executable file that we want to use and execute this •
 ```bash
 cd TheGestor
-  
-chmod +x Thegestor.sh
+chmod +x Thegestor.sh && ./Thegestor.sh
 
-chmod +x TheGestorWC.sh
-```
-
----------------------------------------------
-- We execute the File that we want to use •
-```bash
-./Thegestor.sh  &&  ./TheGestorWC.sh
-
-bash Thegestor.sh  &&  bash TheGestorWC.sh
+chmod +x TheGestorWC.sh && ./TheGestorWC.sh
 ```
 ---------------------------------------------
-
 # Functions
 
 • List the contents of the current directory •

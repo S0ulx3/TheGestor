@@ -30,7 +30,12 @@ git clone https://github.com/S0ulx3/TheGestor
 - Accedemos a la carpeta y otorgamos permisos de ejecución al archivo ejecutable que deseamos usar y lo ejecutamos •
 ```bash
 cd TheGestor
-chmod +x Thegestor && ./Thegestor
+
+Para el TheGestor.
+
+chmod +x TheGestor && ./TheGestor
+
+Para el TheGestorWC:
 
 chmod +x TheGestorWC && ./TheGestorWC
 ```
@@ -70,8 +75,11 @@ git clone https://github.com/S0ulx/TheGestor
 - We access the folder and grant execution permissions to the executable file that we want to use and execute this •
 ```bash
 cd TheGestor
-chmod +x Thegestor && ./Thegestor
 
+For TheGestor
+chmod +x TheGestor && ./TheGestor
+
+For TheGestorWC
 chmod +x TheGestorWC && ./TheGestorWC
 ```
 ---------------------------------------------

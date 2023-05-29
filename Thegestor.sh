@@ -25,8 +25,7 @@ do
     echo -e "${RED}| 4. ${NC}${BLUE} Mover o renombrar archivo/directorio        ${RED}|${NC}"
     echo -e "${RED}| 5.       ${NC}${BLUE} Copiar archivo/directorio             ${RED}|${NC}"
     echo -e "${RED}| 6.      ${NC}${BLUE} Eliminar archivo/directorio            ${RED}|${NC}"
-    echo -e "${RED}| 7.               ${NC}${BLUE} Salir${color_reset}
-       ${RED}|${NC}"
+    echo -e "${RED}| 7.               ${NC}${BLUE} Salir${NC}           ${RED}|${NC}"
     echo -e "${RED}|-------------------------------------------------|${NC}"
     echo
     read -p "$(echo -e "${YELLOW}Ingrese la opción deseada:${NC} ")" opcion

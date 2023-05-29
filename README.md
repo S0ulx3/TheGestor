@@ -39,9 +39,9 @@ chmod +x TheGestorWC.sh
 ---------------------------------------------
 - Ejecutamos el Archivo que deseamos usar •
 ```bash
-./Thegestor.sh  o  ./TheGestorWC.sh
+./Thegestor.sh  &&  ./TheGestorWC.sh
 
-bash Thegestor.sh  o  bash TheGestorWC.sh
+bash Thegestor.sh  &&  bash TheGestorWC.sh
 ```
 ---------------------------------------------
 
@@ -89,9 +89,9 @@ chmod +x TheGestorWC.sh
 ---------------------------------------------
 - We execute the File that we want to use •
 ```bash
-./Thegestor.sh  or  ./TheGestorWC.sh
+./Thegestor.sh  &&  ./TheGestorWC.sh
 
-bash Thegestor.sh  or  bash TheGestorWC.sh
+bash Thegestor.sh  &&  bash TheGestorWC.sh
 ```
 ---------------------------------------------
 
